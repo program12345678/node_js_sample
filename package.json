@@ -6,7 +6,7 @@
      "main": "test",
      "repository": {
         "type": "git",
-        "url":""
+        "url":"https://github.com/program12345678/node_js_sample"
      
      },
      "dependencies": {},
